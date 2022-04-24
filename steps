@@ -1,1 +1,11 @@
+// Setup
 1.  sudo npm install -g json-server
+2. json-server --watch db.json
+
+// Save to git ...
+
+// Init 
+1. npm init
+2. npm i
+3. npm i json-server
+4. sudo npm install json --registry https://registry.npmjs.org
