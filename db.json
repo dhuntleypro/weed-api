@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "title": "Platnium",
+            "price": 35,
+            "type": "Indica",
+            "description": "",
+            "likes": 5,
+            "image": "image1",
+            "form": "flower"
+        },
+        {
+            "id": 1,
+            "title": "OG",
+            "price": 65,
+            "type": "Indica",
+            "description": "",
+            "likes": 5,
+            "image": "image2",
+            "form": "flower"
+        }
+    ]
+}
