@@ -1,26 +1,16 @@
 {
+    
     "products": [
         {
             "id": 0,
             "title": "Platnium",
-            "price": 35,
+            "price": "35",
             "type": "Indica",
             "description": "ijnibib ibib iuhiuhui iuhiu iugub ftfi if77 ",
-            "likes": 5,
+            "likes": "0",
             "image": "image1",
             "form": "flower"
-        },
-        {
-            "id": 1,
-            "title": "OG",
-            "price": 65,
-            "type": "Indica",
-            "description": "  iuh iug iuy go yg ug uguoguog uguyguo ugouugy uou ",
-            "likes": 5,
-            "image": "image2",
-            "form": "flower"
         }
-    ],
-    "status" : "OK"
 
+    ]
 }
